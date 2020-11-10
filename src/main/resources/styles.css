@@ -1,0 +1,14 @@
+GridPane {
+  -fx-min-width: 400px;
+  -fx-min-height: 400px;
+  -fx-pref-width: 400px;
+  -fx-pref-height: 400px;
+  -fx-padding: 10px;
+  -fx-hgap: 10px;
+  -fx-vgap: 10px;
+}
+
+Label {
+  -fx-font-size: 12pt;
+  -fx-font-weight: bold;
+}
